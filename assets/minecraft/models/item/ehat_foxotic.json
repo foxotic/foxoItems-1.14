@@ -2,7 +2,7 @@
 	"credit": "Made by Foxotic",
 	"textures": {
 		"1": "test/ehat_foxotic",
-		"2": "test/Foxotic",
+		"2": "test/foxotic",
 		"particle": "test/ehat_foxotic"
 	},
 	"elements": [
