@@ -3,6 +3,6 @@
 	
     "overrides": [
 	{"predicate": {"custom_model_data":1}, "model": "item/ehat_foxotic"},
-	{"predicate": {"custom_model_data":2}, "model": "item/gold_ingot"}
+	{"predicate": {"custom_model_data":2}, "model": "item/ehat_jack"}
 ]
 }
